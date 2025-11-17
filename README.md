@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mohamed Amine Abdrrazek</h1>
-<h3 align="center">Final-Year ICT, AI & Software Engineering Student | Passionate about ML, Generative AI & LLMs</h3>
+<h3 align="center">Final-Year ICT, AI & Software Engineering Student
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=AI+%26+Software+Engineering+Student;Machine+Learning+Enthusiast;Generative+AI+Explorer;LLM+Developer;Full-Stack+Developer" alt="Typing SVG" />
@@ -13,8 +13,6 @@
 - 🤖 Passionate about **Machine Learning**, **Generative AI**, and **Large Language Models (LLMs)**
 - 💡 Building **AI-powered applications** and **intelligent systems**
 - 🌱 Currently exploring **RAG systems**, **LangChain**, and **Vector Databases**
-- 🔭 Working on projects involving **Computer Vision**, **NLP**, and **MLOps**
-- 💼 Open to **internships** and **collaborative projects** in AI/ML
 - 📫 Reach me at: **mohamedamine.abdrrazek@supcom.tn**
 
 ---
