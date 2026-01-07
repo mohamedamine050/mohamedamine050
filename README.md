@@ -217,9 +217,7 @@
   <img src="https://komarev.com/ghpvc/?username=mohamedamine-abdrrazek&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <i>💡 "The only way to do great work is to love what you do." - Steve Jobs</i>
-</p>
+
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/mohamedamine-abdrrazek">Mohamed Amine Abdrrazek</a></i>
